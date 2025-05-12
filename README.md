@@ -35,3 +35,7 @@ Customer Insights: Highlighted the dominant role of women shoppers (64%) and top
 
 Operational Clarity: Delivery success (92%) and return/cancellation data helped streamline logistics.
 
+# 📁 The dashboard view
+![vrinda store report](https://github.com/user-attachments/assets/553de265-2d48-497f-be6c-b56db5bea1a9)
+
+
